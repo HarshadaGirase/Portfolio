@@ -11,6 +11,8 @@ export const Navbar = () => {
       <a className={styles.title} href="/">
         Portfolio
       </a>
+
+    
       <div className={styles.menu}>
         <img
           className={styles.menuBtn}
@@ -30,13 +32,13 @@ export const Navbar = () => {
             <a href="#about">About</a>
           </li>
           <li>
-            <a href="#experience">Experience</a>
+            <a href="#experience">Skills</a>
           </li>
           <li>
             <a href="#projects">Projects</a>
           </li>
           <li>
-            <a href="#about">Contact</a>
+            <a href="#contact">Contact</a>
           </li>
         </ul>
       </div>

@@ -1,26 +1,35 @@
 [
   {
-    "title": "Project A",
+    "title": "Portfolio Website",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "",
+    "skills": ["React",  "Redux Toolkit", "API"],
+    "demo": "https://harshadagirase.github.io/Portfolio/",
+    "source": "https://github.com/HarshadaGirase/Portfolio"
   },
   {
-    "title": "Project B",
+    "title": "Cryptocurrency Converter",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": " ",
+    "skills": ["React","Redux Toolkit", "API"],
+    "demo": "https://harshadagirase.github.io/CryptoConverter/",
+    "source": "https://github.com/HarshadaGirase/CryptoConverter"
   },
   {
-    "title": "Project C",
+    "title": "Shopping Cart",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "",
+    "skills": ["React", "Redux Toolkit","API"],
+    "demo": "https://harshadagirase.github.io/reactshoppingcart/",
+    "source": "https://github.com/HarshadaGirase/reactshoppingcart"
+  },
+  {
+    "title": "Calculator",
+    "imageSrc": "projects/project.png",
+    "description": "",
+    "skills": ["HTML5", "CSS3", "Javascript"],
+    "demo": "https://harshadacalculator.netlify.app/",
+    "source": "https://github.com/HarshadaGirase/Calculator"
   }
+ 
 ]
